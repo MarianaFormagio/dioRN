@@ -1,5 +1,5 @@
 # DIO
-# Itrodução ao React Naaative
+# Itrodução ao React Native
 
 #Conteúdo
  - Conhecendo o React Native?
